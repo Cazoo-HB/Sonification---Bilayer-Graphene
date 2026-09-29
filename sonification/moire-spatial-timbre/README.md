@@ -1,5 +1,5 @@
 
-# Moir√© reciprocal-space sonification
+# Moiré reciprocal-space sonification
 
 An interactive Python and Max/MSP system for listening to Fourier representations of twisted bilayer graphene. Move a segment across a reciprocal-space image to control an oscillator bank through OSC.
 
